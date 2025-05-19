@@ -19,8 +19,8 @@ assetsSummary:
   numberOfFiles: 0
   schemaKey: AssetsSummary
 citation: Doherty, Donald (2025) Simulated mouse primary motor cortex activity during
-  control and with decreased pyramidal tract neuron excitability in the parkinsonian
-  condition (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001444/draft
+  control and decreased pyramidal tract neuron excitability in the parkinsonian condition
+  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001444/draft
 contributor:
 - affiliation:
   - name: 'SUNY Downstate Health Sciences University '
@@ -31,6 +31,8 @@ contributor:
   name: Doherty, Donald
   roleName:
   - dcite:ContactPerson
+  - dcite:Author
+  - dcite:Researcher
   schemaKey: Person
 dateCreated: '2025-05-11T04:10:22.203945+00:00'
 description: "Each experiment is produced 4 files and we collected 4 sets of experiments
@@ -45,12 +47,16 @@ description: "Each experiment is produced 4 files and we collected 4 sets of exp
 ethicsApproval: []
 id: DANDI:001444/draft
 identifier: DANDI:001444
+keywords:
+- mouse
+- primary motor cortex
+- Parkinson's disease
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001444/versions/draft/assets/
-name: Simulated mouse primary motor cortex activity during control and with decreased
-  pyramidal tract neuron excitability in the parkinsonian condition
+name: Simulated mouse primary motor cortex activity during control and decreased pyramidal
+  tract neuron excitability in the parkinsonian condition
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
