@@ -35,15 +35,14 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 dateCreated: '2025-05-11T04:10:22.203945+00:00'
-description: "Each experiment is produced 4 files and we collected 4 sets of experiments
-  with a total of 16 files.  Each experiment included a control and parkinsonian condition
+description: Each simulation produced 4 files and we collected 4 sets of simulations
+  for a total of 16 files. Each simulation included a control and parkinsonian condition
   in the rest (quiet wakefulness) and in the activated (movement) state. Parkinsonian
   M1 simulations were different from controls in that their PT5B neurons had reduced
-  excitability as found in cortical slices of 6-OHDA treated mice.\n\nEach MWB file
-  includes a local field potential trace, spike train data from all 10,073 neurons,
-  and membrane potential traces from 400 of the layer 5B pyramidal tract (PT5B) neurons.
-  Simulations and recordings were 4.3 seconds in duration.\n\nFull information available
-  in our paper https://www.biorxiv.org/content/10.1101/2024.05.23.595566v1"
+  excitability as found in cortical slices of 6-OHDA treated mice.Each MWB file includes
+  a local field potential trace, spike train data from all 10,073 neurons, and membrane
+  potential traces from 400 of the layer 5B pyramidal tract (PT5B) neurons. Simulations
+  were 4.3 seconds in duration. Full information available in our paper https://www.biorxiv.org/content/10.1101/2024.05.23.595566v1
 ethicsApproval: []
 id: DANDI:001444/draft
 identifier: DANDI:001444
