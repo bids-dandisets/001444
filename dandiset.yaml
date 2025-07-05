@@ -15,9 +15,26 @@ acknowledgement: "This research was funded by Aligning Science Across Parkinson'
   (ACCESS) program, which is supported by National Science Foundation grants #2138259,
   #2138286, #2138307, #2137603, and #2138296."
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 2228770634
+  numberOfFiles: 4
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - Units
 citation: Doherty, Donald (2025) Simulated mouse primary motor cortex activity during
   control and decreased pyramidal tract neuron excitability in the parkinsonian condition
   (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001444/draft
