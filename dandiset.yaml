@@ -65,7 +65,7 @@ description: Each simulation produced 4 files and we collected 4 sets of simulat
   excitability as found in cortical slices of 6-OHDA treated mice.Each MWB file includes
   a local field potential trace, spike train data from all 10,073 neurons, and membrane
   potential traces from 400 of the layer 5B pyramidal tract (PT5B) neurons. Simulations
-  were 4.3 seconds in duration. Full information available in our paper https://www.biorxiv.org/content/10.1101/2024.05.23.595566v1
+  were 4.3 seconds in duration. Full information available in our paper https://doi.org/10.1101/2024.05.23.595566
 ethicsApproval: []
 id: DANDI:001444/draft
 identifier: DANDI:001444
