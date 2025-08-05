@@ -58,6 +58,7 @@ contributor:
   schemaKey: Organization
   url: https://parkinsonsroadmap.org/
 dateCreated: '2025-05-11T04:10:22.203945+00:00'
+datePublished: '2025-08-05T20:02:11.850306+00:00'
 description: Each simulation produced 4 files and we collected 4 sets of simulations
   for a total of 16 files. Each simulation included a control and parkinsonian condition
   in the rest (quiet wakefulness) and in the activated (movement) state. Parkinsonian
@@ -79,6 +80,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001444/versions/draft/assets/
 name: Simulated mouse primary motor cortex activity during control and decreased pyramidal
   tract neuron excitability in the parkinsonian condition
+publishedBy:
+  endDate: '2025-08-05T20:02:11.850306+00:00'
+  id: urn:uuid:dbecbfbe-dc77-4840-9741-d269dd558a6e
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-08-05T20:02:11.850306+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:c161080c-7ccc-49c0-adec-60bc8d84612c
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
